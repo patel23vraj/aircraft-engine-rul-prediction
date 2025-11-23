@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.env
+venv/
+env/
+
+# Data files
+*.csv
+*.pkl
+*.h5
+data/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Generated files
+*.png
+*.jpg
+*.pdf
+*.log
+
+# Compiled C++
+*.o
+*.so
+performance_module.so
